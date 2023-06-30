@@ -12,8 +12,8 @@
 - *Mã lớp:* CS231-N21.KHCL
 - *Giảng viên:* TS Mai Tiến Dũng
 ## Group's members:
-| STT | Họ và Tên |MSSV|SDT|GMAIL|IMAGE|
-|---|---|---|---|---|---|
+| STT | Họ và Tên |MSSV|SDT|GMAIL|
+|---|---|---|---|---|
 | 1 | Lê Hoàng Long |20521563|0929688270|20521563@gm.uit.edu.vn|
 | 2 | Nguyễn Tú Luân |20521583|0838949030|20521583@gm.uit.edu.vn|
 
